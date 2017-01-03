@@ -13,6 +13,7 @@ Given I have n attackers and I want to attack a territory with m defenders, what
 The python code simulates repeated skirmishes and prints the probabilities of successful attacks. The following results are based on a Monte Carlo simulation of 100,000 trials.
 
 attackers / defenders 
+
 \~ |~1 ~| ~2 ~ |~ 3 ~ |~ 4 ~ |~ 5 ~ |~ 6 ~ |~ 7 ~ |~ 8 ~ |~9 ~ |~10 ~ |
 
 1  | 0.42 | 0.11 | 0.03 | 0.01 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
